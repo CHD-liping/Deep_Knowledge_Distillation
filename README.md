@@ -2,7 +2,7 @@
 
 ![Deep Knowledge Distillation](figures/model_architecture.png "Model Architecture")
 
-This is a PyTorch implementation of Deep Knowledge Distillation: Self mutual knowledge distillation for traffic prediction
+This is a PyTorch implementation of Deep Knowledge Distillation: Self mutual knowledge distillation for traffic prediction.
 
 
 ## Requirements
